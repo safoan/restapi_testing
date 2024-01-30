@@ -1,3 +1,5 @@
+// db connection file 
+
 const Pool = require("pg").Pool;
 
 const pool = new Pool({
